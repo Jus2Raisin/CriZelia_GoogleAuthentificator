@@ -1,0 +1,10 @@
+main: fr.crizelia.auth.AuthPlugin
+
+name: CriZeliaAuth
+version: 1.0.0
+author: Jus2Raisin & CriZelia
+description: 2FA custom for CriZelia
+
+commands:
+  2fa:
+    description: 2FA pour une meilleure protection.
